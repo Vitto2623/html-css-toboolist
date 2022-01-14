@@ -1,0 +1,165 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+}
+/* HEADER*/
+header{
+    width: 100%;
+    height: 66px;
+    background-color: white;
+    margin-bottom: 35px;
+}
+
+span{
+    font-size: 70px;
+    vertical-align: text-bottom;
+}
+
+#logo-text{
+    width: 73px;
+    margin-top: 14px;
+    margin-left: 27px;
+    
+}
+/*MAIN*/
+main{
+    background-color: whitesmoke;
+    padding-top: 55px;
+    padding-bottom: 20px;
+}
+
+.container{
+    background-color: white;
+    width: 75%;
+    margin: 0 auto;
+    height: 54px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding: 16px 6px;
+    margin-bottom: 3px;
+}
+
+#sub-container1{
+    background-color: rgba(0, 162, 255, 0.856);
+    width: 89px;
+    height: 30px;
+    margin-left: 108px;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 15px;
+    border: none;
+}
+
+#sub-container2{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: lightgray;
+    border: 1px solid gray;
+    margin-left: 3px;
+}
+
+.container2{
+    background-color: white;
+    width: 75%;
+    margin: 0 auto;
+    height: 1000px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.u-list-1{
+    padding-left: 70px;
+    padding-top: 49px;
+    padding-bottom: 17px;
+    margin-bottom: 33px;
+}
+
+.mark-v{
+    font-size: 16px;
+    color: green;
+    background-color: white;
+    border-radius: 100px;
+    border: 2px solid green;
+    padding: 9px 13px;
+    margin-right: 14px;
+}
+
+.mark-x{
+    font-size: 16px;
+    color: red;
+    background-color: white;
+    border-radius: 100px;
+    border: 2px solid red;
+    padding: 9px 13px;
+    margin-right: 14px;
+}
+
+.u-list-2{
+    padding-left: 70px;
+    margin-top: 66px;
+    margin-bottom: 34px;
+}
+
+.u-list-3{
+    padding-left: 70px;
+    padding-top: 82px;
+}
+
+#special{
+    font-size: 30px;
+    list-style: none;
+}
+
+#style-font{
+    font-size: 30px;
+    padding-left: 0px;
+    padding-top: 25px;
+    color: rgb(98, 98, 98);
+    list-style: none;
+}
+
+.bottone{
+    border-radius: 20px;
+    padding: 12px 6px;
+    border: none;
+    width: 80px;
+    height: 38px;
+}
+
+.sfondo-blu{
+    background-color: rgba(0, 162, 255, 0.856);
+    color: white;
+}
+
+.sfondo-viola{
+    background-color: blueviolet;
+    color: white;
+}
+
+#sfondo-verde-scuro{
+    background-color: rgb(89, 149, 89);
+    color: white;
+}
+
+#sfondo-arancione{
+    background-color: orange;
+    color: white;
+}
+
+#sfondo-rosa-chiaro{
+    background-color: rgb(230, 67, 148);
+    color: white;
+}
+
+#sfondo-verde-chiaro{
+    background-color: rgb(139, 209, 69);
+    color: white;
+}
